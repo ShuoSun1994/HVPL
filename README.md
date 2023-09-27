@@ -28,7 +28,7 @@ You can find them in the current directory  `customers.csv', 'depots.csv` .
 Our code relies on multiple CSV files for experiments. 
 Additional dataset used in the experiment can be emailed to 211420077@st.usst.edu.cn
 
-##  how to run the code
+##  How to run the code
 ```bash
 python main.py --input customers.csv, depots.csv --output result.csv
 ```
