@@ -11,7 +11,6 @@
 - Csv
 - Random
 - Math
-- Matplotlib (for visualization)
 
 ## Installation
 ```bash
