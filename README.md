@@ -14,7 +14,7 @@
 
 ## Installation
 ```bash
-pip install numpy pandas matplotlib copy time random csv math
+pip install numpy pandas copy time csv random math
 ```
 
 
